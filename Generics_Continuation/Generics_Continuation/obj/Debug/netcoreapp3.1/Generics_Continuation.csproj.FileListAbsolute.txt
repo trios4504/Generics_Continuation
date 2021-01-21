@@ -1,0 +1,12 @@
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/bin/Debug/netcoreapp3.1/Generics_Continuation.deps.json
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/bin/Debug/netcoreapp3.1/Generics_Continuation.runtimeconfig.json
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/bin/Debug/netcoreapp3.1/Generics_Continuation.runtimeconfig.dev.json
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/bin/Debug/netcoreapp3.1/Generics_Continuation.dll
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/bin/Debug/netcoreapp3.1/Generics_Continuation.pdb
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/obj/Debug/netcoreapp3.1/Generics_Continuation.csprojAssemblyReference.cache
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/obj/Debug/netcoreapp3.1/Generics_Continuation.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/obj/Debug/netcoreapp3.1/Generics_Continuation.AssemblyInfo.cs
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/obj/Debug/netcoreapp3.1/Generics_Continuation.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/obj/Debug/netcoreapp3.1/Generics_Continuation.dll
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/obj/Debug/netcoreapp3.1/Generics_Continuation.pdb
+/Users/thomas/Desktop/Holding/CS 133 Projects/Generics_Continuation/Generics_Continuation/obj/Debug/netcoreapp3.1/Generics_Continuation.genruntimeconfig.cache

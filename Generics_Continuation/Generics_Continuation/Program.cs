@@ -10,20 +10,22 @@ namespace Generics_Continuation
     {
         static void Main(string[] args)
         {
-            Cake<string> weddingCake = new Cake<string>();
-            weddingCake.Flavor = "Vanilla";
+            Cakes weddingCake = new Cakes();
+            weddingCake.AddFlavor<string>("Vanilla");
 
-            Cake<string> partyCake = new Cake<string>();
-            partyCake.Flavor = "Chocolate";
+            Cakes partyCake = new Cakes();
+            partyCake.AddFlavor<string>("Chocolate");
 
-            Console.WriteLine("The flavor for the Wedding cake is: " + weddingCake.Flavor + ".");
-            Console.WriteLine("The flavor for the Party cake is: " + partyCake.Flavor + ".");
 
         }
     }
 }
 
-public class Cake<T>
+public class Cakes
 {
-    public string Flavor { get; set; }
+    public void AddFlavor<F>(F parameter)
+    {
+        Console.WriteLine("The flavor for the Wedding cake is: " + weddingCake.AddFlavor + ".");
+        Console.WriteLine("The flavor for the Party cake is: " + partyCake.AddFlavor + ".");
+    }
 }

@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
+using Generics_Continuation;
 
 
 namespace Generics_Continuation
@@ -25,7 +26,6 @@ public class Cakes
 {
     public void AddFlavor<F>(F parameter)
     {
-        Console.WriteLine("The flavor for the Wedding cake is: " + weddingCake.AddFlavor + ".");
-        Console.WriteLine("The flavor for the Party cake is: " + partyCake.AddFlavor + ".");
+        Console.WriteLine("The flavor for the cake is: " + parameter + ".");
     }
 }
